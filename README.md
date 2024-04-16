@@ -4,6 +4,7 @@
 
 <div align="center">
 Greetings! I'm a fourth-year student majoring in Internet of Things, currently studying in South Korea.
+
 I thrive on challenges and consistently achieve my goals through determination and hard work.
 
 During my military service, I pondered over how to make the most of my university years,
@@ -20,11 +21,6 @@ As I enter my final year, I'm eager to showcase the skills I've honed thus far.
 
 Now, as a fourth-year student, I'm enthusiastic about broadening my horizons through an internship opportunity in the United States.
 </div>
-
-  
-</div>
-
-<br>
 
  
 ## Stacks 📖
