@@ -2,7 +2,7 @@
 
 ## Introduce Myself 📖
 
-<div align="left">
+<div align="center">
  Greetings! I'm a fourth-year student majoring in Internet of Things, currently studying in South Korea. 🌟
 <br>
  I thrive on challenges and consistently achieve my goals through determination and hard work. 💡
