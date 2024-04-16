@@ -1,1 +1,3 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Kwon's Adventure Log;)](https://git.io/typing-svg)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
+
