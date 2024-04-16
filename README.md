@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:c6acf6,100:E6B9F7&width=1500&height=240&section=header&text=KWON's%20Adventure%20Journal✋&fontSize=50&fontColor=ffffff )  
 
-## Introduce Myself 📖
+## Introduce Myself 😊
 
 <div align="center", style = "font-size: 15px;">
  
