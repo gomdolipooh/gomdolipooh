@@ -11,7 +11,7 @@
  ### During my military service, I pondered over how to make the most of my university years,<br>
  ### and I committed to exploring my interests for at least a year. 🌱
 
- ### 1️⃣ In my second year, my fascination with entrepreneurship led me to secure funding of $15,000 <br>
+ ### 1️⃣ In my second year, my fascination with entrepreneurship led me to secure funding of $15,000
    ### to develop a product and delve into marketing. 💼
 
  ### 2️⃣ Throughout my third year, I immersed myself in various competitions within my field, <br>
