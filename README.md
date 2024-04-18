@@ -2,7 +2,7 @@
 
 ## Introduce Myself 😊
 
-<div align="center", style = "font-size: 100px;">
+<div align="center" style="font-size: 100px;">
  
  Greetings! I'm a fourth-year student majoring in Internet of Things, currently studying in South Korea. 🌟<br>
 
