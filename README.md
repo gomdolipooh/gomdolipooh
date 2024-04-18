@@ -2,24 +2,24 @@
 
 ## Introduce Myself 😊
 
-<div align="center" style="font-size: 100px;">
+<div align="center" style="font-size: 100%;">
  
- Greetings! I'm a fourth-year student majoring in Internet of Things, currently studying in South Korea. 🌟<br>
+ ### Greetings! I'm a fourth-year student majoring in Internet of Things, currently studying in South Korea. 🌟<br>
 
- I thrive on challenges and consistently achieve my goals through determination and hard work. 💡<br>
+ ### I thrive on challenges and consistently achieve my goals through determination and hard work. 💡<br>
 
- During my military service, I pondered over how to make the most of my university years,<br>
-and I committed to exploring my interests for at least a year. 🌱
+ ### During my military service, I pondered over how to make the most of my university years,<br>
+ ### and I committed to exploring my interests for at least a year. 🌱
 
-1️⃣ In my second year, my fascination with entrepreneurship led me to secure funding of $15,000 <br>
-   to develop a product and delve into marketing. 💼
+ ### 1️⃣ In my second year, my fascination with entrepreneurship led me to secure funding of $15,000 <br>
+   ### to develop a product and delve into marketing. 💼
 
-2️⃣ Throughout my third year, I immersed myself in various competitions within my field, <br>
-   developing two successful apps and earning accolades. 🏆
+ ### 2️⃣ Throughout my third year, I immersed myself in various competitions within my field, <br>
+ ###   developing two successful apps and earning accolades. 🏆
 
-3️⃣ As I enter my final year, I'm eager to showcase the skills I've honed thus far. 🚀
+ ### 3️⃣ As I enter my final year, I'm eager to showcase the skills I've honed thus far. 🚀
 
- Now, as a fourth-year student, I'm enthusiastic about broadening my horizons through an internship opportunity in the United States. 🌎
+ ### Now, as a fourth-year student, I'm enthusiastic about broadening my horizons through an internship opportunity in the United States. 🌎
   
 </div>
 
